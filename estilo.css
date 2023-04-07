@@ -1,0 +1,51 @@
+.row {
+    margin: 0;
+}
+
+header {
+    background-color: rgb(53,58,64);
+}
+body {
+    background-color: rgba(233, 150,122,255);
+    
+}
+
+.nav-link  {
+	color: rgb(253, 253, 253);
+    background-color: #e91a1a;
+    
+}
+
+.nav-link:hover {
+	color: rgb(53, 58, 64);
+	background-color: white;
+    
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin-top: 100px;
+    padding: 25px;
+}
+h3 {
+    font-size: 60px;
+    text-align: center;
+    padding: 10px;
+}
+
+
+
+footer {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+	background-color: rgb(53, 58, 64);
+}
+
+p {
+    margin-left: 5px;
+    
+}
